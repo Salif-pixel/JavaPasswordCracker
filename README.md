@@ -36,6 +36,7 @@ Supposons que vous vouliez craquer le hash `a9fbf652584d2904a8bf8246e7b3387c`. V
 3. Choisissez la méthode de craquage (brute force ou dictionnaire).
 4. Choisissez l'algorithme de hachage (MD5, SHA-256, etc.).
 5. Attendez que le programme recherche le mot de passe correspondant.
+6. 
 ![Nom de l'image](https://nordvpn.com/wp-content/uploads/brute-force-attack-rubiks-cube-passwords-featured-5297.png)
 ---
 
@@ -46,5 +47,6 @@ Supposons que vous vouliez craquer le hash `a9fbf652584d2904a8bf8246e7b3387c`. V
 - Mohamed Niang
 - Marieme Tabara Seydi
 - Khadidiatou Gueye
+
   ![Nom de l'image](https://www.digitalrecruiters.com/medias/2019/12/comment-favoriser-lengagement-des-salaries-grace-a-lexperience-collaborateur-2.jpg)
   
