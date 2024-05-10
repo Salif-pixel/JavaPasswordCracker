@@ -12,7 +12,7 @@ Ce programme Java permet de retrouver un mot de passe à partir de son hash en u
 - [Contributeurs](#contributeurs)
 
 ---
-![Nom de l'image](https://www.ssldragon.com/wp-content/uploads/2023/10/brute-force-attack-1.webp)
+
 ## Installation
 
 1. Assurez-vous d'avoir Java installé sur votre système.
