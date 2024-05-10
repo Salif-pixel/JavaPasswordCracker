@@ -14,7 +14,7 @@ class DictionaryCracker implements PasswordCracker {
     @Override
     public String crack(String hash) {
         try {
-            MessageDigest digest = MessageDigest.getInstance("MD5");
+            MessageDigest digest = MessageDigest.getInstance(Algorithm);
             for (String word : dictionary) {
                 byte[] hashedBytes = digest.digest(word.getBytes());
                 String hashedWord = bytesToHex(hashedBytes);

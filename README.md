@@ -1,6 +1,5 @@
 # JavaPasswordCracker
 ![Nom de l'image](https://img-0.journaldunet.com/HfJq3WeEZD8WMieqZqeiYTk_9MQ=/1500x/smart/218d741508034c0aaf1e4c246f54756d/ccmcms-jdn/12420397.jpg)
-
 Ce programme Java permet de retrouver un mot de passe à partir de son hash en utilisant différentes méthodes de cracking : brute force ou dictionnaire.
 
 ---
@@ -13,7 +12,7 @@ Ce programme Java permet de retrouver un mot de passe à partir de son hash en u
 - [Contributeurs](#contributeurs)
 
 ---
-
+![Nom de l'image](https://www.ssldragon.com/wp-content/uploads/2023/10/brute-force-attack-1.webp)
 ## Installation
 
 1. Assurez-vous d'avoir Java installé sur votre système.
@@ -37,7 +36,7 @@ Supposons que vous vouliez craquer le hash `a9fbf652584d2904a8bf8246e7b3387c`. V
 3. Choisissez la méthode de craquage (brute force ou dictionnaire).
 4. Choisissez l'algorithme de hachage (MD5, SHA-256, etc.).
 5. Attendez que le programme recherche le mot de passe correspondant.
-
+![Nom de l'image](https://nordvpn.com/wp-content/uploads/brute-force-attack-rubiks-cube-passwords-featured-5297.png)
 ---
 
 ## Contributeurs
@@ -47,4 +46,5 @@ Supposons que vous vouliez craquer le hash `a9fbf652584d2904a8bf8246e7b3387c`. V
 - Mohamed Niang
 - Marieme Tabara Seydi
 - Khadidiatou Gueye
-
+  ![Nom de l'image](https://www.digitalrecruiters.com/medias/2019/12/comment-favoriser-lengagement-des-salaries-grace-a-lexperience-collaborateur-2.jpg)
+  
