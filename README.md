@@ -43,4 +43,8 @@ Supposons que vous vouliez craquer le hash `a9fbf652584d2904a8bf8246e7b3387c`. V
 ## Contributeurs
 
 - Salif Biaye 
+- Ndeye Astou Diagouraga
+- Mohamed Niang
+- Marieme Tabara Seydi
+- Khadidiatou Gueye
 
